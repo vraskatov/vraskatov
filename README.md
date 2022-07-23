@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Valentin
 
 ### I'm a Data Scientist with a background in linguistics and journalism
 
@@ -10,5 +10,6 @@
 
 <br />
 
-### Feel free to contact me!
+### Feel free to [contact](mailto:raskatov@gmx.de) me!
+
 <a href="https://www.linkedin.com/in/valentin-raskatov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
