@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**vraskatov/vraskatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Data Scientist with a background in linguistics and journalism
 
-Here are some ideas to get you started:
+– I'm open to work in the NLP field working with german text data
+<br>
+– I'm currently deepening my knowledge about Scrapy, NLTK and Regex
+<br>
+– My current goal: apply my new Python and SQL coding skills to the material I have been working with my whole life – texts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Feel free to contact me!
+<a href="https://www.linkedin.com/in/valentin-raskatov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
