@@ -9,12 +9,14 @@
 – My current goal: apply my new Python and SQL coding skills to the material I have been working with my whole life – texts.
 
 <details closed>
-<summary>Programming Languages</summary>
+<summary>Programming Languages & Databases</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
 <details closed>
@@ -27,19 +29,14 @@
 </details>
 
 <details closed>
-<summary>Databases</summary>
-<br>
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details closed>
-<summary>Data manipulation</summary>
+<summary>Data manipulation & visualization</summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+Matplotlib,
+Seaborn
 </details>
 
 <details closed>
@@ -51,35 +48,20 @@
 </details>
 
 <details closed>
-<summary>Visualization</summary>
-<br>
-
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-Matplotlib,
-Seaborn
-</details>
-
-<details closed>
-<summary>IDEs</summary>
+<summary>IDEs & CMS</summary>
 <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 </details>
+
 
 <details closed>
 <summary>Cloud Computing</summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</details>
-
-<details closed>
-<summary>CMS</summary>
-<br>
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 </details>
 
 <details closed>
