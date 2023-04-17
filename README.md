@@ -1,12 +1,12 @@
 ## Hi there, my name is Valentin
 
-### I'm a Data Scientist with a background in linguistics and journalism
+### I'm a Data Scientist with a background in linguistics and media
 
-– I'm open to work in the NLP field working with german text data
+– I'm open to work in the NLP field working with text data
 <br>
-– I'm currently deepening my knowledge about Scrapy, NLTK and Regex and learning Pytorch
+– I'm currently deepening my knowledge about Regex, Spacy and PowerBI
 <br>
-– My current goal: apply my new Python and SQL coding skills to the material I have been working with my whole life – texts.
+– My goal: Applying my Python and SQL coding skills to the material I have been working with my whole life – texts.
 
 <details closed>
 <summary>Programming Languages & Databases</summary>
