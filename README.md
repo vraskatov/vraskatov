@@ -2,21 +2,16 @@
 
 ### I'm a Data Scientist with a background in linguistics and media
 
-– I'm open to work in the NLP field working with text data
-<br>
-– I'm currently deepening my knowledge about Regex, Spacy and PowerBI
-<br>
-– My goal: Applying my Python and SQL coding skills to the material I have been working with my whole life – texts.
-
 <details closed>
 <summary>Programming Languages & Databases</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+SQLite,
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Golang,
+Javascript
 </details>
 
 <details closed>
@@ -40,24 +35,18 @@ Seaborn
 </details>
 
 <details closed>
-<summary>Apps</summary>
+<summary>Apps & APIs</summary>
 <br>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+FastAPI
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+Streamlit
+Tkinter
 </details>
 
 <details closed>
-<summary>IDEs & CMS</summary>
-<br>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-</details>
-
-
-<details closed>
 <summary>Cloud Computing</summary>
 <br>
 
@@ -65,13 +54,6 @@ Seaborn
 </details>
 
 <details closed>
-<summary>Operational Systems</summary>
-<br>
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</details>
 
 <br />
 
